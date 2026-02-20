@@ -10,7 +10,7 @@ if (isset($_POST['nom']) && isset($_POST['age'])) {
         'age' => $age
     ];
 
-    echo "Personne ajoutée avec succès";
+    echo "Personne ajoutée avec succès merci";
 }
 ?>
 
